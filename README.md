@@ -1,7 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_423_752/0/1697453573297?e=1715817600&v=beta&t=YhcUET3DJ4Z8qbCdzfn7NvF1z-Xzp0FGICbE3FxgiVk">
 
 
 # 💫 About Me:
