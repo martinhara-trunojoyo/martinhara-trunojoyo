@@ -1,11 +1,10 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">A passionate web developer from Indonesia</h3>
+<h3 align="center">I am focused on enhancing my skills in mobile and web development</h3>
 
 
 # 💫 About Me:
-I'm currently learning
-
+I'm currently learning mobile and web development, focusing on building robust and dynamic applications
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/martinharahap) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/martin.harra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martinharahap) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@martinharahap) 
