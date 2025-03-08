@@ -3,7 +3,6 @@
 <h3 align="center">A passionate web developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_423_752/0/1697453573297?e=1715817600&v=beta&t=YhcUET3DJ4Z8qbCdzfn7NvF1z-Xzp0FGICbE3FxgiVk">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martinhara-trunojoyo&label=Profile%20views&color=0e75b6&style=flat" alt="martinhara-trunojoyo" /> </p>
 
 # 💫 About Me:
 I'm currently learning
